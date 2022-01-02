@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<RECORDS>
+	<RECORD>
+		<id>1</id>
+		<name>RizkyMakruf</name>
+		<email>rizkyartpic@gmail.com</email>
+		<password>$2y$10$ehAzW4Ygrodytc145QotFevalw7Mdr.Z7JfDFaV7cc1OigN0ATv3W</password>
+		<role>admin</role>
+		<is_active>1</is_active>
+		<image>rizkymakruf-20211210040556.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>4</id>
+		<name>akbar</name>
+		<email>akbar@member.com</email>
+		<password>$2y$10$NYiTqUVQd8DX7NqZTUFP/u97Tx/ZQe7190MQpntqF8rXGRakJbjsW</password>
+		<role>member</role>
+		<is_active>1</is_active>
+		<image>akbar-20211213231238.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>5</id>
+		<name>andre</name>
+		<email>hahaha@gmail.com</email>
+		<password>$2y$10$yY0E/.08WbnURkdYoKViX.KYdZrfnGD.PGXsHLuRnqhG91KTnjRA6</password>
+		<role>member</role>
+		<is_active>1</is_active>
+		<image>andre-20211214171514.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>6</id>
+		<name>fikar</name>
+		<email>fikar@gmail.com</email>
+		<password>$2y$10$LJsVyHHAkK.msYa7COIfperOlJKuXVRciOQO8iWg6549ozqd8rJnm</password>
+		<role>member</role>
+		<is_active>1</is_active>
+		<image>fikar-20211214180014.jpg</image>
+	</RECORD>
+</RECORDS>
+

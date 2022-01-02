@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<RECORDS>
+	<RECORD>
+		<id>00065157855</id>
+		<id_user>1</id_user>
+		<transaction_time>14/12/2021 09:46:50</transaction_time>
+		<gross_amount>1825000</gross_amount>
+		<nama>rizki makruf</nama>
+		<alamat>Jl. Siliwangi, jombor</alamat>
+		<custom>Warna coklat tu</custom>
+		<status>pending</status>
+		<email>rizkyartpic@gmail.com</email>
+		<telp>02555654554</telp>
+		<payment_type>bank_transfer</payment_type>
+		<status_code>201</status_code>
+		<pdf_url>https://app.sandbox.midtrans.com/snap/v1/transactions/3bf7f9f3-4f06-48b2-8bfc-c1cf867d1102/pdf</pdf_url>
+		<bank>bca</bank>
+		<va_number>73111239842</va_number>
+	</RECORD>
+	<RECORD>
+		<id>00132992998</id>
+		<id_user>6</id_user>
+		<transaction_time>14/12/2021 17:52:41</transaction_time>
+		<gross_amount>101250000</gross_amount>
+		<nama>fikar</nama>
+		<alamat>kendari dekat sungai</alamat>
+		<custom>warna hijau tos</custom>
+		<status>pending</status>
+		<email>fikarrrr@mail.com</email>
+		<telp>022525655555</telp>
+		<payment_type>bank_transfer</payment_type>
+		<status_code>201</status_code>
+		<pdf_url>https://app.sandbox.midtrans.com/snap/v1/transactions/a1710c18-74c5-4255-a42b-68664dabe739/pdf</pdf_url>
+		<bank>bca</bank>
+		<va_number>73111753112</va_number>
+	</RECORD>
+	<RECORD>
+		<id>00896722622</id>
+		<id_user>5</id_user>
+		<transaction_time>14/12/2021 17:24:32</transaction_time>
+		<gross_amount>18350000</gross_amount>
+		<nama>fahrel</nama>
+		<alamat>jogja</alamat>
+		<custom/>
+		<status>pending</status>
+		<email>hihihi@gmail.com</email>
+		<telp>0534545</telp>
+		<payment_type>bank_transfer</payment_type>
+		<status_code>201</status_code>
+		<pdf_url>https://app.sandbox.midtrans.com/snap/v1/transactions/2de74851-dc09-49fa-a179-ce6932f30b09/pdf</pdf_url>
+		<bank>bca</bank>
+		<va_number>73111846227</va_number>
+	</RECORD>
+	<RECORD>
+		<id>01666434138</id>
+		<id_user>5</id_user>
+		<transaction_time>14/12/2021 17:11:25</transaction_time>
+		<gross_amount>1825000</gross_amount>
+		<nama>Andre</nama>
+		<alamat>Klaten</alamat>
+		<custom>Warna Coklat Tu</custom>
+		<status>pending</status>
+		<email>hahaha@gmail.com</email>
+		<telp>032453453452</telp>
+		<payment_type>bank_transfer</payment_type>
+		<status_code>201</status_code>
+		<pdf_url>https://app.sandbox.midtrans.com/snap/v1/transactions/22c6aa3d-cc1b-48f3-ad0e-226f0f023e78/pdf</pdf_url>
+		<bank>bca</bank>
+		<va_number>73111045134</va_number>
+	</RECORD>
+</RECORDS>
+

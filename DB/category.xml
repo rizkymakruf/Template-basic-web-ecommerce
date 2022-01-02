@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<RECORDS>
+	<RECORD>
+		<id>1</id>
+		<slug>sofa</slug>
+		<title>Sofa</title>
+	</RECORD>
+	<RECORD>
+		<id>2</id>
+		<slug>meja</slug>
+		<title>Meja</title>
+	</RECORD>
+	<RECORD>
+		<id>3</id>
+		<slug>slideboard-cabinet</slug>
+		<title>Slideboard Cabinet</title>
+	</RECORD>
+	<RECORD>
+		<id>4</id>
+		<slug>set-sofa-with-table</slug>
+		<title>Set Sofa With Table</title>
+	</RECORD>
+	<RECORD>
+		<id>5</id>
+		<slug>set-funiture-minimalis</slug>
+		<title>Set funiture minimalis</title>
+	</RECORD>
+	<RECORD>
+		<id>6</id>
+		<slug>etalase</slug>
+		<title>Etalase</title>
+	</RECORD>
+	<RECORD>
+		<id>7</id>
+		<slug>chair</slug>
+		<title>Chair</title>
+	</RECORD>
+</RECORDS>
+

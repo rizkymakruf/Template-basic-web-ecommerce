@@ -1,0 +1,134 @@
+<?xml version="1.0" standalone="yes"?>
+<RECORDS>
+	<RECORD>
+		<id>1</id>
+		<id_category>3</id_category>
+		<slug>minimalis-drawer-3x2</slug>
+		<title>Minimalis Drawer 3X2</title>
+		<description>Drawer with minimalis consept, suitable for any home model, nature them color and aestethic, available in natural colors, can be custom size and color</description>
+		<price>1800000</price>
+		<is_available>1</is_available>
+		<image>10.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>2</id>
+		<id_category>1</id_category>
+		<slug>single-sofa</slug>
+		<title>Single Sofa</title>
+		<description>A single sofa with a unique and elegant design, making your home look more luxurious, made of synthetic leather and with teak wood legs. You can do custom on the color</description>
+		<price>2000000</price>
+		<is_available>1</is_available>
+		<image>9.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>3</id>
+		<id_category>1</id_category>
+		<slug>long-sofa</slug>
+		<title>Long Sofa</title>
+		<description>a long sofa that is suitable for accompanying you to watch television in the living room, soft material with sturdy legs, you can custom the color and size</description>
+		<price>3000000</price>
+		<is_available>1</is_available>
+		<image>6.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>4</id>
+		<id_category>1</id_category>
+		<slug>single-long-sofa</slug>
+		<title>Single Long Sofa</title>
+		<description>a long sofa that is suitable for accompanying you to watch television in the living room, soft material with sturdy legs, you can custom the color and size</description>
+		<price>2950000</price>
+		<is_available>1</is_available>
+		<image>7.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>5</id>
+		<id_category>4</id_category>
+		<slug>sofa-set-with-table</slug>
+		<title>Sofa Set With Table</title>
+		<description>having a sofa set with a table is very comfortable, we can relax while putting snacks on the table, besides you get a table, you also get free sofa pillows. You can do custom colors.</description>
+		<price>3500000</price>
+		<is_available>1</is_available>
+		<image>2.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>6</id>
+		<id_category>4</id_category>
+		<slug>sofa-set-with-table-mosern-style</slug>
+		<title>Sofa Set With Table Modern Style</title>
+		<description>having a sofa set with a table is very comfortable, we can relax while putting snacks on the table, besides you get a table, you also get free sofa pillows. You can do custom colors.</description>
+		<price>3150000</price>
+		<is_available>1</is_available>
+		<image>1.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>7</id>
+		<id_category>3</id_category>
+		<slug>slideboard-set-cabinet</slug>
+		<title>Slideboard set cabinet</title>
+		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </description>
+		<price>2500000</price>
+		<is_available>1</is_available>
+		<image>slideboard-cabinet-20211210005819.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>8</id>
+		<id_category>5</id_category>
+		<slug>set-minimalis-furniture</slug>
+		<title>Set Minimalis Furniture</title>
+		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </description>
+		<price>1200000</price>
+		<is_available>1</is_available>
+		<image>set-minimalis-furniture-20211210010055.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>9</id>
+		<id_category>1</id_category>
+		<slug>single-sofa-set</slug>
+		<title>Single Sofa Set </title>
+		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </description>
+		<price>1450000</price>
+		<is_available>1</is_available>
+		<image>single-sofa-set-20211210010321.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>10</id>
+		<id_category>4</id_category>
+		<slug>set-sofa-with-table-modern</slug>
+		<title>Set sofa with table modern </title>
+		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </description>
+		<price>5100000</price>
+		<is_available>1</is_available>
+		<image>set-sofa-with-table-modern-20211210010454.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>11</id>
+		<id_category>6</id_category>
+		<slug>minimalis-etalase-set</slug>
+		<title>Minimalis Etalase Set</title>
+		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+		<price>1550000</price>
+		<is_available>1</is_available>
+		<image>minimalis-etalase-set-20211210065656.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>12</id>
+		<id_category>1</id_category>
+		<slug>fabric-single-sofa</slug>
+		<title>Fabric Single Sofa</title>
+		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+		<price>800000</price>
+		<is_available>1</is_available>
+		<image>fabric-single-sofa-20211210065802.jpg</image>
+	</RECORD>
+	<RECORD>
+		<id>13</id>
+		<id_category>7</id_category>
+		<slug>unique-chair</slug>
+		<title>Unique chair</title>
+		<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+		<price>250000</price>
+		<is_available>1</is_available>
+		<image>unique-chair-20211210070746.jpg</image>
+	</RECORD>
+</RECORDS>
+
